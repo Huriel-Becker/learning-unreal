@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/scrol/OneDrive/Documentos/Unreal Projects/Rolling/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/scrol/OneDrive/Documentos/Unreal Projects/Rolling/Content/Maps/Level1.umap",
+				"C:/Users/scrol/OneDrive/Documentos/Unreal Projects/Rolling/Content/Blueprints/BallPawn.uasset",
+				"C:/Users/scrol/OneDrive/Documentos/Unreal Projects/Rolling/Content/Maps/Level2.umap",
+				"C:/Users/scrol/OneDrive/Documentos/Unreal Projects/Rolling/Content/Maps/Level1_auto.umap",
+				"C:/Users/scrol/OneDrive/Documentos/Unreal Projects/Rolling/Content/Blueprints/PickUp.uasset",
+				"C:/Users/scrol/OneDrive/Documentos/Unreal Projects/Rolling/Content/Blueprints/Coin.uasset",
+				"C:/Users/scrol/OneDrive/Documentos/Unreal Projects/Rolling/Content/Blueprints/Gear.uasset"
+			]
+		}
+	]
+}
